@@ -11,7 +11,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 1.2 - Git - O que é e para que serve
 - [x] 1.3 - Git & GitHub - Entendendo os comandos
 
-##### Bloco 2: [Introdução à HTML & CSS](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-02-introdu%C3%A7%C3%A3o-a-html-%26-css/dia-01-html-e-css-estruturas-de-pagina)
+##### Bloco 2: [Introdução à HTML & CSS](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-02-introdu%C3%A7%C3%A3o-a-html-%26-css)
 - [x] 2.1 - HTML & CSS - Estruturas de página
 - [] 2.2 - HTML & CSS - Primeiros passos em CSS
 - [] 2.3 - HTML & CSS - Seletores e posicionamento
