@@ -6,7 +6,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 
 ## Fundamentos do Desenvolvimento Web
 
-##### Bloco 1: [Unix, Shell e Git](Adicionar Link)
+##### Bloco 1: [Unix, Shell e Git](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-01-unix-shell-e-git)
 - [x] 1.1 - Unix & Shell
 - [x] 1.2 - Git - O que é e para que serve
 - [x] 1.3 - Git & GitHub - Entendendo os comandos
