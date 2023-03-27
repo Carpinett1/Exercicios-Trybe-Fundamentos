@@ -13,7 +13,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 
 ##### Bloco 2: [Introdução à HTML & CSS](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-02-introdu%C3%A7%C3%A3o-a-html-%26-css)
 - [x] 2.1 - HTML & CSS - Estruturas de página
-- [] 2.2 - HTML & CSS - Primeiros passos em CSS
-- [] 2.3 - HTML & CSS - Seletores e posicionamento
-- [] 2.4 - HTML Semântico
+- [x] 2.2 - HTML & CSS - Primeiros passos em CSS
+- [x] 2.3 - HTML & CSS - Seletores e posicionamento
+- [x] 2.4 - HTML Semântico
 - [] 2.5 - Projeto - Lessons Learned
