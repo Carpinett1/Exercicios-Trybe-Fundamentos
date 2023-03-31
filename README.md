@@ -19,7 +19,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 2.5 - Projeto - Lessons Learned
 
 ##### Bloco 3: [Introdução à JavaScript](Adicionar Link)
-- [] 3.1 - JavaScript - Primeiros passos
+- [x] 3.1 - JavaScript - Primeiros passos
 - [] 3.2 - JavaScript - Array e loop For
 - [] 3.3 - JavaScript - Funções
 - [] 3.4 - JavaScript - Objetos
