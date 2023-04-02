@@ -20,7 +20,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 
 ##### Bloco 3: [Introdução à JavaScript](Adicionar Link)
 - [x] 3.1 - JavaScript - Primeiros passos
-- [] 3.2 - JavaScript - Array e loop For
+- [x] 3.2 - JavaScript - Array e loop For
 - [] 3.3 - JavaScript - Funções
 - [] 3.4 - JavaScript - Objetos
 - [] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
