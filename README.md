@@ -18,7 +18,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 2.4 - HTML Semântico
 - [x] 2.5 - Projeto - Lessons Learned
 
-##### Bloco 3: [Introdução à JavaScript](Adicionar Link)
+##### Bloco 3: [Introdução à JavaScript](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-03-introdu%C3%A7%C3%A3o-%C3%A0-javascript)
 - [x] 3.1 - JavaScript - Primeiros passos
 - [x] 3.2 - JavaScript - Array e loop For
 - [] 3.3 - JavaScript - Funções
