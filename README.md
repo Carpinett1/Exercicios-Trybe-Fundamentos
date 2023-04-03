@@ -21,7 +21,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 ##### Bloco 3: [Introdução à JavaScript](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-03-introdu%C3%A7%C3%A3o-%C3%A0-javascript)
 - [x] 3.1 - JavaScript - Primeiros passos
 - [x] 3.2 - JavaScript - Array e loop For
-- [] 3.3 - JavaScript - Funções
+- [x] 3.3 - JavaScript - Funções
 - [] 3.4 - JavaScript - Objetos
 - [] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
 - [] 3.6 - Projeto - Playground Functions
