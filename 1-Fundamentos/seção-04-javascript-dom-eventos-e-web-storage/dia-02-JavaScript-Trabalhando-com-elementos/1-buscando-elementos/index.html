@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Buscando Elementos</title>
+</head>
+<body>
+<main id="parent-of-parent">
+  <section id="parent">
+    <section id="first-child"></section>
+    <section id="where-are-you">
+      <section id="first-child-of-child"></section>
+    </section>
+    Attention!
+    <section id="third-child"></section>
+    <section id="fourth-and-last-child"></section>
+  </section>
+</main>
+</body>
+<script>
+  const whereAreYou = document.getElementById("where-are-you");
+
+  const parentWRU = whereAreYou.parentNode;
+  parentWRU.style.background = 'green';
+
+  const firstChildOfChild = document.getElementById("first-child-of-child");
+  firstChildOfChild.innerText = 'Insirindo texto';
+
+  const parent = document.getElementById("parent");
+  const firstChild = parent.firstElementChild;
+
+  const firstChild2 = whereAreYou.previousElementSibling;
+
+  const textElement = whereAreYou.nextSibling;
+
+  const thirdChild = whereAreYou.nextElementSibling;
+
+  const thirdChild2 = parent.children[2];
+</script>
+</html>
