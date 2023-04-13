@@ -22,6 +22,36 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 3.1 - JavaScript - Primeiros passos
 - [x] 3.2 - JavaScript - Array e loop For
 - [x] 3.3 - JavaScript - Funções
-- [] 3.4 - JavaScript - Objetos
-- [] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
-- [] 3.6 - Projeto - Playground Functions
+- [x] 3.4 - JavaScript - Objetos
+- [x] 3.5 - JavaScript ES6 - let, const, arrow functions e template literals
+- [x] 3.6 - Projeto - Playground Functions
+
+##### Bloco 4: [JavaScript: DOM, Eventos e Web Storage](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-04-javascript-dom-eventos-e-web-storage)
+- [x] 4.1 - JavaScript - DOM e seletores
+- [x] 4.2 - JavaScript - Trabalhando com elementos
+- [x] 4.3 - JavaScript - Eventos
+- [] 4.4 - JavaScript - Web Storage
+- [] 4.5 - Projeto - Arte com pixels
+- [] 4.6 - Projeto Bônus
+
+##### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo] ()
+- [] 5.1 - HTML & CSS - Forms
+- [] 5.2 - Bibliotecas JavaScript e Frameworks CSS
+- [] 5.3 - CSS Flexbox - Parte 1
+- [] 5.4 - CSS Flexbox - Parte 2
+- [] 5.5 - CSS Responsivo - Mobile First
+- [] 5.6 - Projeto - Trybewarts
+
+##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários] ()
+- [] 6.1 - Fluxo de exceções e manipulação de objetos
+- [] 6.2 - Primeiros passos em Jest
+- [] 6.3 - Matchers e cobertura de código
+- [] 6.4 - Projeto - JavaScript Testes Unitários
+
+##### Bloco 7: [Higher Order Functions do JavaScript ES6] ()
+- [] 7.1 - Introdução a Higher Order Functions
+- [] 7.2 - Higher Order Functions - sort e map
+- [] 7.3 - Higher Order Functions - filter e reduce
+- [] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
+- [] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
+- [] 7.6 - Projeto - Zoo functions
