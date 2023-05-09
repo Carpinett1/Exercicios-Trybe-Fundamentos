@@ -4,7 +4,7 @@
   "description": "Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
