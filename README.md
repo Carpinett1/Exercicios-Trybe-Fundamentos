@@ -42,7 +42,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 5.5 - CSS Responsivo - Mobile First
 - [x] 5.6 - Projeto - Trybewarts
 
-##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]()
+##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-06-introdu%C3%A7%C3%A3o-%C3%A0-javascript-es6-e-testes-unit%C3%A1rios)
 - [x] 6.1 - Fluxo de exceções e manipulação de objetos
 - [x] 6.2 - Primeiros passos em Jest
 - [x] 6.3 - Matchers e cobertura de código
