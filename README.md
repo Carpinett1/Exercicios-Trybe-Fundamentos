@@ -34,7 +34,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 4.5 - Projeto - Arte com pixels
 - [x] 4.6 - Projeto Bônus
 
-##### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo] ()
+##### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-05-html-e-css-froms-flex-box-e-responsivo)
 - [x] 5.1 - HTML & CSS - Forms
 - [x] 5.2 - Bibliotecas JavaScript e Frameworks CSS
 - [x] 5.3 - CSS Flexbox - Parte 1
@@ -42,13 +42,13 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 5.5 - CSS Responsivo - Mobile First
 - [x] 5.6 - Projeto - Trybewarts
 
-##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários] ()
+##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários]()
 - [x] 6.1 - Fluxo de exceções e manipulação de objetos
 - [x] 6.2 - Primeiros passos em Jest
 - [x] 6.3 - Matchers e cobertura de código
 - [x] 6.4 - Projeto - JavaScript Testes Unitários
 
-##### Bloco 7: [Higher Order Functions do JavaScript ES6] ()
+##### Bloco 7: [Higher Order Functions do JavaScript ES6]()
 - [] 7.1 - Introdução a Higher Order Functions
 - [] 7.2 - Higher Order Functions - sort e map
 - [] 7.3 - Higher Order Functions - filter e reduce
