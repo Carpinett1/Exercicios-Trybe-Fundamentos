@@ -30,23 +30,23 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 4.1 - JavaScript - DOM e seletores
 - [x] 4.2 - JavaScript - Trabalhando com elementos
 - [x] 4.3 - JavaScript - Eventos
-- [] 4.4 - JavaScript - Web Storage
-- [] 4.5 - Projeto - Arte com pixels
-- [] 4.6 - Projeto Bônus
+- [x] 4.4 - JavaScript - Web Storage
+- [x] 4.5 - Projeto - Arte com pixels
+- [x] 4.6 - Projeto Bônus
 
 ##### Bloco 5: [HTML e CSS: Forms, Flexbox e Responsivo] ()
-- [] 5.1 - HTML & CSS - Forms
-- [] 5.2 - Bibliotecas JavaScript e Frameworks CSS
-- [] 5.3 - CSS Flexbox - Parte 1
-- [] 5.4 - CSS Flexbox - Parte 2
-- [] 5.5 - CSS Responsivo - Mobile First
-- [] 5.6 - Projeto - Trybewarts
+- [x] 5.1 - HTML & CSS - Forms
+- [x] 5.2 - Bibliotecas JavaScript e Frameworks CSS
+- [x] 5.3 - CSS Flexbox - Parte 1
+- [x] 5.4 - CSS Flexbox - Parte 2
+- [x] 5.5 - CSS Responsivo - Mobile First
+- [x] 5.6 - Projeto - Trybewarts
 
 ##### Bloco 6: [Introdução à JavaScript ES6 e Testes Unitários] ()
-- [] 6.1 - Fluxo de exceções e manipulação de objetos
-- [] 6.2 - Primeiros passos em Jest
-- [] 6.3 - Matchers e cobertura de código
-- [] 6.4 - Projeto - JavaScript Testes Unitários
+- [x] 6.1 - Fluxo de exceções e manipulação de objetos
+- [x] 6.2 - Primeiros passos em Jest
+- [x] 6.3 - Matchers e cobertura de código
+- [x] 6.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 7: [Higher Order Functions do JavaScript ES6] ()
 - [] 7.1 - Introdução a Higher Order Functions
