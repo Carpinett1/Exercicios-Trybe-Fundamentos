@@ -48,7 +48,7 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 6.3 - Matchers e cobertura de código
 - [x] 6.4 - Projeto - JavaScript Testes Unitários
 
-##### Bloco 7: [Higher Order Functions do JavaScript ES6]()
+##### Bloco 7: [Higher Order Functions do JavaScript ES6](https://github.com/Carpinett1/trybe-exercises/tree/main/1-Fundamentos/se%C3%A7%C3%A3o-07-higher-order-functions-do-javascript-es6)
 - [x] 7.1 - Introdução a Higher Order Functions
 - [x] 7.2 - Higher Order Functions - sort e map
 - [x] 7.3 - Higher Order Functions - filter e reduce
