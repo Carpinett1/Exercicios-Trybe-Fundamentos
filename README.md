@@ -1,6 +1,6 @@
 # Trybe - Exercícios
 
-Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tragetória na [Trybe](https://www.betrybe.com/) :rocket:
+Contém todas as atividades desenvolvidas por Thiago Carpinetti durante o módulo de Fundamentos da [Trybe](https://www.betrybe.com/) :rocket:
 
 >"O programa conta com mais de 1.500 horas de aulas presenciais e online, aborda introdução ao desenvolvimento de software, front-end, back-end, ciência da computação, engenharia de software, metodologias ágeis e habilidades comportamentais."
 
@@ -49,9 +49,9 @@ Contém todas as atividades desenvolvidas por Thiago Carpinetti durante minha tr
 - [x] 6.4 - Projeto - JavaScript Testes Unitários
 
 ##### Bloco 7: [Higher Order Functions do JavaScript ES6] ()
-- [] 7.1 - Introdução a Higher Order Functions
-- [] 7.2 - Higher Order Functions - sort e map
-- [] 7.3 - Higher Order Functions - filter e reduce
-- [] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
-- [] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
-- [] 7.6 - Projeto - Zoo functions
+- [x] 7.1 - Introdução a Higher Order Functions
+- [x] 7.2 - Higher Order Functions - sort e map
+- [x] 7.3 - Higher Order Functions - filter e reduce
+- [x] 7.4 - JavaScript ES6 - spread operator, rest parameters e object destructuring
+- [x] 7.5 - JavaScript ES6 - Array destructuring, Default destructuring, Object property shorthand e default parameters
+- [x] 7.6 - Projeto - Zoo functions
